@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "314495268744",
+    "project_id": "let-stalkvideocall",
+    "storage_bucket": "let-stalkvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314495268744:android:474127e621c85837372c3d",
+        "android_client_info": {
+          "package_name": "com.example.letstalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314495268744-t0pe3gju3gmcepjmdplr87m2luknlch5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letstalk",
+            "certificate_hash": "d8ad3d9780138bc746bf93b986083391e4c8cc5e"
+          }
+        },
+        {
+          "client_id": "314495268744-8egdgat91sm6ugp6l9rig1j0s3v79bo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfj95vG45kCH-Qa77w_ESbqIqi3cGeV4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314495268744-8egdgat91sm6ugp6l9rig1j0s3v79bo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
